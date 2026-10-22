@@ -1,10 +1,25 @@
 {
   "dealership": "Nelson Ford Sales",
-  "generated_at": "2026-10-22T13:09:19",
-  "vehicle_count": 144,
+  "generated_at": "2026-10-22T13:11:11",
+  "vehicle_count": 145,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
+    {
+      "name": "New 2026 Ford Bronco Outer Banksin Nelson",
+      "vin": "1FMDE8BH2TLB75336",
+      "stock": "NUMBER",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/new/64eb10aa8a7e.html",
+      "source_url": "https://www.nelsonfordsales.com/new/inventory/2026-Ford-Bronco-id14556714.html",
+      "dealer_url": "https://www.nelsonfordsales.com/new/inventory/2026-Ford-Bronco-id14556714.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T13:10:26",
+      "price": 69125.0,
+      "price_currency": "CAD",
+      "condition": "new",
+      "city": "Nelson",
+      "province": "BC"
+    },
     {
       "name": "2014 Ford F-150 XLT - 3.5L EcoBoost - Android Audio Upgradein Nelson",
       "vin": "1FTFW1ET4EFC56082",
