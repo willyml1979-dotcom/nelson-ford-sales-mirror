@@ -1,7 +1,7 @@
 {
   "dealership": "Nelson Ford Sales",
-  "generated_at": "2026-10-25T15:02:01",
-  "vehicle_count": 145,
+  "generated_at": "2026-10-25T15:03:57",
+  "vehicle_count": 148,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -11,6 +11,30 @@
       "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/new/64eb10aa8a7e.html",
       "condition": "new",
       "price": 69125.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Bronco Big Bendin Nelson",
+      "vin": "1FMDE7BH7TLB80378",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/new/f0e98b03727a.html",
+      "condition": "new",
+      "price": 63145.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 Tremorin Nelson",
+      "vin": "1FTFW4L86TFC30404",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/new/027f5b385f1b.html",
+      "condition": "new",
+      "price": 74400.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Ranger XLTin Nelson",
+      "vin": "1FTER4HH7TLE62586",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/new/ddc0e0e74ef4.html",
+      "condition": "new",
+      "price": 52745.0,
       "price_currency": "CAD"
     },
     {
