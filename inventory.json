@@ -1,7 +1,7 @@
 {
   "dealership": "Nelson Ford Sales",
-  "generated_at": "2026-10-26T09:04:30",
-  "vehicle_count": 148,
+  "generated_at": "2026-10-26T09:06:31",
+  "vehicle_count": 149,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -19,6 +19,14 @@
       "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/new/f0e98b03727a.html",
       "condition": "new",
       "price": 63145.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Bronco Sport Big Bendin Nelson",
+      "vin": "3FMCR9BNXTRF26409",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/new/06a84b6a7a5a.html",
+      "condition": "new",
+      "price": 44425.0,
       "price_currency": "CAD"
     },
     {
