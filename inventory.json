@@ -1,48 +1,115 @@
 {
   "dealership": "Nelson Ford Sales",
-  "generated_at": "2026-10-26T09:06:31",
-  "vehicle_count": 149,
+  "generated_at": "2026-11-17T11:05:00",
+  "vehicle_count": 145,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "New 2026 Ford Bronco Outer Banksin Nelson",
-      "vin": "1FMDE8BH2TLB75336",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/new/64eb10aa8a7e.html",
-      "condition": "new",
-      "price": 69125.0,
+      "name": "Ford F-150 2013 for salein Nelson",
+      "vin": "1FTFX1EF9DKE72779",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/f4d6834c55c3.html",
+      "condition": "used",
+      "price": 17759.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Ford Bronco Big Bendin Nelson",
-      "vin": "1FMDE7BH7TLB80378",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/new/f0e98b03727a.html",
-      "condition": "new",
-      "price": 63145.0,
+      "name": "Ford F-150 2019 for salein Nelson",
+      "vin": "1FTFW1E48KKD66628",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/17be1bb5e662.html",
+      "condition": "used",
+      "price": 34359.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Ford Bronco Sport Big Bendin Nelson",
-      "vin": "3FMCR9BNXTRF26409",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/new/06a84b6a7a5a.html",
-      "condition": "new",
-      "price": 44425.0,
+      "name": "Ford Ranger 2019 for salein Nelson",
+      "vin": "1FTER4FH5KLA03395",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/e323dcb3fd6c.html",
+      "condition": "used",
+      "price": 30527.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Ford F-150 Tremorin Nelson",
-      "vin": "1FTFW4L86TFC30404",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/new/027f5b385f1b.html",
-      "condition": "new",
-      "price": 74400.0,
+      "name": "Honda Ridgeline 2019 for salein Nelson",
+      "vin": "5FPYK3F73KB503990",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/0f79d803ccb6.html",
+      "condition": "used",
+      "price": 29359.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Ford Ranger XLTin Nelson",
-      "vin": "1FTER4HH7TLE62586",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/new/ddc0e0e74ef4.html",
-      "condition": "new",
-      "price": 52745.0,
+      "name": "Chevrolet Colorado 2020 for salein Nelson",
+      "vin": "1GCHSBEA3L1187288",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/ca2499b59037.html",
+      "condition": "used",
+      "price": 14859.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-150 Hybrid 2022 for salein Nelson",
+      "vin": "1FTFW1ED2NFC42271",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/4eb90600eb22.html",
+      "condition": "used",
+      "price": 48359.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Tacoma 2022 for salein Nelson",
+      "vin": "3TYCZ5AN3NT054086",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/54bdff24efb8.html",
+      "condition": "used",
+      "price": 42846.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Explorer 2023 for salein Nelson",
+      "vin": "1FMSK8DH2PGA22130",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/de516d2dd97d.html",
+      "condition": "used",
+      "price": 39359.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-150 2023 for salein Nelson",
+      "vin": "1FTFW1E81PKE39638",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/627a595b4a46.html",
+      "condition": "used",
+      "price": 48359.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Bronco Sport 2024 for salein Nelson",
+      "vin": "3FMCR9C61RRE81859",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/3343d2e9c0df.html",
+      "condition": "used",
+      "price": 33114.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Escape 2024 for salein Nelson",
+      "vin": "1FMCU9GN2RUA35969",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/4cb86247fc83.html",
+      "condition": "used",
+      "price": 29305.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-150 2024 for salein Nelson",
+      "vin": "1FTFW3L8XRFB87656",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/1bae933f1f17.html",
+      "condition": "used",
+      "price": 57359.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2013 Ford F-150 XLin Nelson",
+      "vin": "1FTFX1EF9DKE72779",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/25567f52af72.html",
+      "year": 2013,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 17759.0,
       "price_currency": "CAD"
     },
     {
@@ -134,42 +201,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Subaru Forester Limitedin Nelson",
-      "vin": "JF2SJESC2JH539699",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/a02a267ac382.html",
-      "year": 2018,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "used",
-      "price": 24659.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Subaru Forester ",
-      "vin": "JF2SJESC2JH539699",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/c8e582a07e88.html",
-      "year": 2018,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "used",
-      "price": 24659.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 Ford F-150 Lariat - 502A - 3.5L EcoBoost - Max Towin Nelson",
       "vin": "1FTFW1E48KKD66628",
       "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/c3d29c48cc45.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 34359.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford F-150 ",
-      "vin": "1FTFW1E48KKD66628",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/17be1bb5e662.html",
       "year": 2019,
       "make": "Ford",
       "model": "F-150",
@@ -185,18 +219,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "used",
-      "price": 33746.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Ranger ",
-      "vin": "1FTER4FH5KLA03395",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/e323dcb3fd6c.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Ranger",
-      "condition": "used",
-      "price": 33746.0,
+      "price": 30527.0,
       "price_currency": "CAD"
     },
     {
@@ -211,42 +234,20 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Hyundai Tucson Preferredin Nelson",
-      "vin": "KM8J3CA41KU023485",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/cd1df7273726.html",
+      "name": "2019 Honda Ridgeline Touringin Nelson",
+      "vin": "5FPYK3F73KB503990",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/56f989b9db94.html",
       "year": 2019,
-      "make": "Hyundai",
-      "model": "Tucson",
+      "make": "Honda",
+      "model": "Ridgeline",
       "condition": "used",
-      "price": 20403.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Hyundai Tucson ",
-      "vin": "KM8J3CA41KU023485",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/d9c0c161a7d3.html",
-      "year": 2019,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 20403.0,
+      "price": 29359.0,
       "price_currency": "CAD"
     },
     {
       "name": "2020 Chevrolet Colorado 2wd Work Truckin Nelson",
       "vin": "1GCHSBEA3L1187288",
       "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/1ee734231919.html",
-      "year": 2020,
-      "make": "Chevrolet",
-      "model": "Colorado",
-      "condition": "used",
-      "price": 14859.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Chevrolet Colorado ",
-      "vin": "1GCHSBEA3L1187288",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/ca2499b59037.html",
       "year": 2020,
       "make": "Chevrolet",
       "model": "Colorado",
@@ -268,7 +269,7 @@
     {
       "name": "2020 Ford Escape SELin Nelson",
       "vin": "1FMCU9H68LUB27134",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/8bae15b56948.html",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/bc578602a719.html",
       "year": 2020,
       "make": "Ford",
       "model": "Escape",
@@ -296,50 +297,6 @@
       "model": "Transit Connect",
       "condition": "new",
       "price": 28759.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Ford Escape SE - Cold Weather/ Convenience PKGin Nelson",
-      "vin": "1FMCU9G60MUA40525",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/3203176303ab.html",
-      "year": 2021,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "used",
-      "price": 19359.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Ford Escape ",
-      "vin": "1FMCU9G60MUA40525",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/4734aa0730b5.html",
-      "year": 2021,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "used",
-      "price": 19359.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Ford F-150 XLT 302A - 5L V8in Nelson",
-      "vin": "1FTFW1E55MFC75157",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/417766703614.html",
-      "year": 2021,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 33523.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Ford F-150 ",
-      "vin": "1FTFW1E55MFC75157",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/775c24941173.html",
-      "year": 2021,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 33523.0,
       "price_currency": "CAD"
     },
     {
@@ -378,39 +335,6 @@
     {
       "name": "2022 Ford F-150 Hybrid ",
       "vin": "1FTFW1ED2NFC42271",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/4eb90600eb22.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "F-150 Hybrid",
-      "condition": "used",
-      "price": 48359.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford Ranger XLT - 2.3L EcoBoost - Trailer Tow PKGin Nelson",
-      "vin": "1FTER4FHXNLD22263",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/cd700e066f85.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "Ranger",
-      "condition": "used",
-      "price": 37306.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford Ranger ",
-      "vin": "1FTER4FHXNLD22263",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/40565ad80886.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "Ranger",
-      "condition": "used",
-      "price": 37306.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford F-150 Hybrid ",
-      "vin": "1FTFW1ED2NFC42271",
       "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/new/4eb90600eb22.html",
       "year": 2022,
       "make": "Ford",
@@ -427,18 +351,7 @@
       "make": "Toyota",
       "model": "Tacoma",
       "condition": "used",
-      "price": 43359.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Toyota Tacoma ",
-      "vin": "3TYCZ5AN3NT054086",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/54bdff24efb8.html",
-      "year": 2022,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "used",
-      "price": 43359.0,
+      "price": 42846.0,
       "price_currency": "CAD"
     },
     {
@@ -453,42 +366,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Ford Bronco Big Bend 221A - 2.7L - Tow PKGin Nelson",
-      "vin": "1FMDE5APXPLB96433",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/6a3988238be7.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "Bronco",
-      "condition": "used",
-      "price": 45659.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Ford Bronco ",
-      "vin": "1FMDE5APXPLB96433",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/023782dc225d.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "Bronco",
-      "condition": "used",
-      "price": 45659.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Ford Explorer XLT 202A - Tow PKGin Nelson",
       "vin": "1FMSK8DH2PGA22130",
       "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/ad2b21abb6c2.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "Explorer",
-      "condition": "used",
-      "price": 39359.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Ford Explorer ",
-      "vin": "1FMSK8DH2PGA22130",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/de516d2dd97d.html",
       "year": 2023,
       "make": "Ford",
       "model": "Explorer",
@@ -552,17 +432,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Ford F-150 ",
-      "vin": "1FTFW1E81PKE39638",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/627a595b4a46.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 48359.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Ford Bronco ",
       "vin": "1FMDE5APXPLB96433",
       "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/new/023782dc225d.html",
@@ -607,25 +476,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Ford Escape Activein Nelson",
-      "vin": "1FMCU9GN2RUA35969",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/b559406b4207.html",
+      "name": "2024 Ford Bronco Sport Outer Banksin Nelson",
+      "vin": "3FMCR9C61RRE81859",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/790e7f261680.html",
       "year": 2024,
       "make": "Ford",
-      "model": "Escape",
+      "model": "Bronco Sport",
       "condition": "used",
-      "price": 39078.0,
+      "price": 33114.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Ford Escape ",
+      "name": "2024 Ford Escape Activein Nelson",
       "vin": "1FMCU9GN2RUA35969",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/4cb86247fc83.html",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/45aaa768d7d7.html",
       "year": 2024,
       "make": "Ford",
       "model": "Escape",
       "condition": "used",
-      "price": 39078.0,
+      "price": 29305.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Ford F-150 XLTin Nelson",
+      "vin": "1FTFW3L8XRFB87656",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/d93c830e7980.html",
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 57359.0,
       "price_currency": "CAD"
     },
     {
@@ -948,6 +828,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Ford Bronco Outer Banksin Nelson",
+      "vin": "1FMDE8BH2TLB75336",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/new/64eb10aa8a7e.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Bronco",
+      "condition": "new",
+      "price": 69125.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Bronco Big Bendin Nelson",
+      "vin": "1FMDE7BH7TLB80378",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/new/f0e98b03727a.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Bronco",
+      "condition": "new",
+      "price": 63145.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Ford Bronco Sport Outer Banks - Choose 0% or $4750 Fall Cash!!!in Nelson",
       "vin": "3FMCR9CN8TRE03416",
       "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/new/02d36f6a0777.html",
@@ -1143,6 +1045,17 @@
       "model": "Bronco Sport",
       "condition": "new",
       "price": 40915.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Bronco Sport Big Bendin Nelson",
+      "vin": "3FMCR9BNXTRF26409",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/new/06a84b6a7a5a.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "new",
+      "price": 44425.0,
       "price_currency": "CAD"
     },
     {
@@ -1355,6 +1268,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Ford F-150 Tremorin Nelson",
+      "vin": "1FTFW4L86TFC30404",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/new/027f5b385f1b.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 74400.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Ford Maverick XLTin Nelson",
       "vin": "3FTTW8J32TRB18414",
       "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/new/2eacbf1904d8.html",
@@ -1495,6 +1419,17 @@
       "model": "Ranger",
       "condition": "new",
       "price": 49785.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Ranger XLTin Nelson",
+      "vin": "1FTER4HH7TLE62586",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/new/ddc0e0e74ef4.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Ranger",
+      "condition": "new",
+      "price": 52745.0,
       "price_currency": "CAD"
     },
     {
