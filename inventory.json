@@ -1,7 +1,7 @@
 {
   "dealership": "Nelson Ford Sales",
-  "generated_at": "2026-11-17T11:05:00",
-  "vehicle_count": 145,
+  "generated_at": "2026-11-17T11:07:39",
+  "vehicle_count": 152,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -850,6 +850,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Ford Bronco Outer Banks - Choose 0.99% or $4000 Fall Cash!!!in Nelson",
+      "vin": "1FMDE8BH2TLB75336",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/new/3d69f2d52e47.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Bronco",
+      "condition": "new",
+      "price": 64125.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Bronco Big Bend - Choose 0.99% or $4000 Fall Cash!!!in Nelson",
+      "vin": "1FMDE7BH7TLB80378",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/new/a16d1e347c45.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Bronco",
+      "condition": "new",
+      "price": 58145.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Ford Bronco Sport Outer Banks - Choose 0% or $4750 Fall Cash!!!in Nelson",
       "vin": "3FMCR9CN8TRE03416",
       "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/new/02d36f6a0777.html",
@@ -1180,6 +1202,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Ford F-150 Tremor - Choose 0% or $8500 Fall Cash!!! Manager Clearance Special!!! Cash Price Listed!!!in Nelson",
+      "vin": "1FTFW4L86TFB83326",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/new/2c2009618eb3.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 71587.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Ford F-150 XLTin Nelson",
       "vin": "1FTFW3L87TKE78145",
       "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/new/0ba880921528.html",
@@ -1279,6 +1312,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Ford F-150 Tremor - Choose 0% or $8500 Fall Cash!!!in Nelson",
+      "vin": "1FTFW4L89TFC46497",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/new/e059beb6d02d.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 75350.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 Hybrid XLT - Choose 0% or $8500 Fall Cash!!!in Nelson",
+      "vin": "1FTFW3LD3TFC52951",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/new/19be092277be.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150 Hybrid",
+      "condition": "new",
+      "price": 75125.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Ford Maverick XLTin Nelson",
       "vin": "3FTTW8J32TRB18414",
       "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/new/2eacbf1904d8.html",
@@ -1309,6 +1364,17 @@
       "model": "Maverick",
       "condition": "new",
       "price": 44445.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Maverick XLTin Nelson",
+      "vin": "3FTTW8J33TRB71932",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/new/d679652b9968.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Maverick",
+      "condition": "new",
+      "price": 46695.0,
       "price_currency": "CAD"
     },
     {
@@ -1430,6 +1496,17 @@
       "model": "Ranger",
       "condition": "new",
       "price": 52745.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Ranger XLTin Nelson",
+      "vin": "1FTER4HH7TLE62586",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/new/5f25b58c672f.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Ranger",
+      "condition": "new",
+      "price": 51995.0,
       "price_currency": "CAD"
     },
     {

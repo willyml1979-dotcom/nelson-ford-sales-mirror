@@ -1,6 +1,6 @@
 # Nelson Ford Sales
 
- dealership in Nelson. AI-readable inventory mirror, about 145 vehicles.
+ dealership in Nelson. AI-readable inventory mirror, about 152 vehicles.
 
 - Official website: https://www.nelsonfordsales.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/
