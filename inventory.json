@@ -1,6 +1,6 @@
 {
   "dealership": "Nelson Ford Sales",
-  "generated_at": "2026-11-18T01:57:25",
+  "generated_at": "2026-11-18T10:56:55",
   "vehicle_count": 152,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -14,11 +14,19 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Ford F-150 2019 for salein Nelson",
-      "vin": "1FTFW1E48KKD66628",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/17be1bb5e662.html",
+      "name": "Ford F-150 2014 for salein Nelson",
+      "vin": "1FTFW1ET4EFC56082",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/5b6591796d6f.html",
       "condition": "used",
-      "price": 34359.0,
+      "price": 18359.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-150 2017 for salein Nelson",
+      "vin": "1FTFW1EG3HKE01451",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/a8c39bfc0789.html",
+      "condition": "used",
+      "price": 27359.0,
       "price_currency": "CAD"
     },
     {
@@ -110,6 +118,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Ford Ranger 2024 for salein Nelson",
+      "vin": "1FTER4HH6RLE32827",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/1710476de2db.html",
+      "condition": "used",
+      "price": 44759.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Ford Bronco Sport 2025 for salein Nelson",
       "vin": "3FMCR9CN2SRF17913",
       "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/c1534b93dbee.html",
@@ -158,6 +174,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Toyota Tundra 2026 for salein Nelson",
+      "vin": "5TFLA5DB4TX336507",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/3ddb25134550.html",
+      "condition": "used",
+      "price": 60755.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2013 Ford F-150 XLin Nelson",
       "vin": "1FTFX1EF9DKE72779",
       "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/25567f52af72.html",
@@ -172,17 +196,6 @@
       "name": "2014 Ford F-150 XLT - 3.5L EcoBoost - Android Audio Upgradein Nelson",
       "vin": "1FTFW1ET4EFC56082",
       "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/7ff94d8ebdb2.html",
-      "year": 2014,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 18359.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 Ford F-150 ",
-      "vin": "1FTFW1ET4EFC56082",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/5b6591796d6f.html",
       "year": 2014,
       "make": "Ford",
       "model": "F-150",
@@ -224,17 +237,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Ford F-150 ",
-      "vin": "1FTFW1EG3HKE01451",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/a8c39bfc0789.html",
-      "year": 2017,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 27359.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2017 Ford Edge ",
       "vin": "2FMPK4J9XHBC34195",
       "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/new/11dc7c4947fa.html",
@@ -254,17 +256,6 @@
       "model": "F-150",
       "condition": "new",
       "price": 27700.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford F-150 Lariat - 502A - 3.5L EcoBoost - Max Towin Nelson",
-      "vin": "1FTFW1E48KKD66628",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/c3d29c48cc45.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 34359.0,
       "price_currency": "CAD"
     },
     {
@@ -557,17 +548,6 @@
       "name": "2024 Ford Ranger XLTin Nelson",
       "vin": "1FTER4HH6RLE32827",
       "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/03b60ca69917.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Ranger",
-      "condition": "used",
-      "price": 44759.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford Ranger ",
-      "vin": "1FTER4HH6RLE32827",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/1710476de2db.html",
       "year": 2024,
       "make": "Ford",
       "model": "Ranger",
@@ -1519,6 +1499,17 @@
       "model": "Uncharted",
       "condition": "new",
       "price": 49627.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Tundra SRin Nelson",
+      "vin": "5TFLA5DB4TX336507",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/020edad1907a.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tundra",
+      "condition": "used",
+      "price": 60755.0,
       "price_currency": "CAD"
     },
     {
