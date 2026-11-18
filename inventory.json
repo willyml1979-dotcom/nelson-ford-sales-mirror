@@ -1,6 +1,6 @@
 {
   "dealership": "Nelson Ford Sales",
-  "generated_at": "2026-11-17T11:07:39",
+  "generated_at": "2026-11-18T01:57:25",
   "vehicle_count": 152,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -43,6 +43,14 @@
       "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/ca2499b59037.html",
       "condition": "used",
       "price": 14859.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Escape 2020 for salein Nelson",
+      "vin": "1FMCU9H68LUB27134",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/7f1b03aec5b6.html",
+      "condition": "used",
+      "price": 25359.0,
       "price_currency": "CAD"
     },
     {
@@ -99,6 +107,54 @@
       "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/1bae933f1f17.html",
       "condition": "used",
       "price": 57359.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Bronco Sport 2025 for salein Nelson",
+      "vin": "3FMCR9CN2SRF17913",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/c1534b93dbee.html",
+      "condition": "used",
+      "price": 35857.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Escape 2025 for salein Nelson",
+      "vin": "1FMCU9MN3SUA66626",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/81e9cd4eea9e.html",
+      "condition": "used",
+      "price": 33195.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Expedition 2025 for salein Nelson",
+      "vin": "1FMJU1RG4SEA03905",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/519050af8ea9.html",
+      "condition": "used",
+      "price": 95359.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-150 Hybrid 2025 for salein Nelson",
+      "vin": "1FTFW7LD0SFA54849",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/3183b6839436.html",
+      "condition": "used",
+      "price": 80759.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota 4Runner 2025 for salein Nelson",
+      "vin": "JTEVB5BR3S5005512",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/524eb82fc678.html",
+      "condition": "used",
+      "price": 70759.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Subaru Uncharted 2026 for salein Nelson",
+      "vin": "JTMAAAAE7TJ005891",
+      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/a6116986df10.html",
+      "condition": "used",
+      "price": 43528.0,
       "price_currency": "CAD"
     },
     {
@@ -270,17 +326,6 @@
       "name": "2020 Ford Escape SELin Nelson",
       "vin": "1FMCU9H68LUB27134",
       "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/bc578602a719.html",
-      "year": 2020,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "used",
-      "price": 25359.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Ford Escape ",
-      "vin": "1FMCU9H68LUB27134",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/7f1b03aec5b6.html",
       "year": 2020,
       "make": "Ford",
       "model": "Escape",
@@ -549,18 +594,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "used",
-      "price": 36359.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford Bronco Sport ",
-      "vin": "3FMCR9CN2SRF17913",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/c1534b93dbee.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "used",
-      "price": 36359.0,
+      "price": 35857.0,
       "price_currency": "CAD"
     },
     {
@@ -571,18 +605,7 @@
       "make": "Ford",
       "model": "Escape",
       "condition": "used",
-      "price": 34359.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford Escape ",
-      "vin": "1FMCU9MN3SUA66626",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/81e9cd4eea9e.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "used",
-      "price": 34359.0,
+      "price": 33195.0,
       "price_currency": "CAD"
     },
     {
@@ -593,18 +616,7 @@
       "make": "Ford",
       "model": "Expedition",
       "condition": "used",
-      "price": 99359.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford Expedition ",
-      "vin": "1FMJU1RG4SEA03905",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/519050af8ea9.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Expedition",
-      "condition": "used",
-      "price": 99359.0,
+      "price": 95359.0,
       "price_currency": "CAD"
     },
     {
@@ -615,18 +627,7 @@
       "make": "Ford",
       "model": "F-150 Hybrid",
       "condition": "used",
-      "price": 86659.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford F-150 Hybrid ",
-      "vin": "1FTFW7LD0SFA54849",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/3183b6839436.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "F-150 Hybrid",
-      "condition": "used",
-      "price": 86659.0,
+      "price": 80759.0,
       "price_currency": "CAD"
     },
     {
@@ -692,18 +693,7 @@
       "make": "Toyota",
       "model": "4Runner",
       "condition": "used",
-      "price": 73359.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Toyota 4Runner ",
-      "vin": "JTEVB5BR3S5005512",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/524eb82fc678.html",
-      "year": 2025,
-      "make": "Toyota",
-      "model": "4Runner",
-      "condition": "used",
-      "price": 73359.0,
+      "price": 70759.0,
       "price_currency": "CAD"
     },
     {
@@ -1517,18 +1507,7 @@
       "make": "Subaru",
       "model": "Uncharted Sport AWDin Nelson",
       "condition": "used",
-      "price": 45359.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Uncharted ",
-      "vin": "JTMAAAAE7TJ005891",
-      "url": "https://willyml1979-dotcom.github.io/nelson-ford-sales-mirror/used/a6116986df10.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Uncharted",
-      "condition": "used",
-      "price": 45359.0,
+      "price": 43528.0,
       "price_currency": "CAD"
     },
     {
